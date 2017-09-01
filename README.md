@@ -1,4 +1,4 @@
-# hp
+# Family Tree
 
 A prolog program including data related to the Harry Potter World, accepting relation queries like aunt, uncle, mother, father, son, daughter, brother, sister, ancestors and descendents etc. of any character.
 
